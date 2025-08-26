@@ -1,7 +1,7 @@
 from machine import Pin, time_pulse_us
 import time
 
-# --- Configuração dos Pinos ---
+# --- Configuração dos Pinos ----
 # Pinos do sensor ultrassônico HC-SR04
 PINO_TRIG = 25
 PINO_ECHO = 27
