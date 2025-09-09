@@ -32,7 +32,8 @@ Este trabalho foi desenvolvido na disciplina de IoT no SENAI Jandira, usando a p
 - Wokwi
 ---
 
-## Autor
+## Integrantes
 - Vitor Paes Rodrigues
 - João Pedro de França
 - Richard Pimentel
+
