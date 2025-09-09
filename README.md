@@ -16,3 +16,12 @@
 - Circuito feito por João pedro
 
 ---
+
+
+<img width="1156" height="868" alt="image" src="https://github.com/user-attachments/assets/620cd762-3eba-4bb4-bf0c-67113b3709f2" />
+
+- Desafio feito por Richard e Vitor
+
+---
+
+
