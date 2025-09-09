@@ -24,4 +24,15 @@
 
 ---
 
+## Sobre o projeto
+Este trabalho foi desenvolvido na disciplina de IoT no SENAI Jandira, usando a placa ESP32. Nele, utilizamos quatro tipos de sensores, tanto em ambiente simulado quanto em testes práticos: um sensor de luminosidade, responsável por medir a intensidade da luz; um sensor de proximidade, que identifica a presença de objetos próximos com ondas ultrassônicas; um sensor de umidade, usado para monitorar a umidade do solo ou do ar; e um sensor de contagem, que registra cada objeto detectado. Nesse último, a cada dez itens identificados, considera-se uma nova caixa, possibilitando acompanhar a quantidade total de caixas produzidas ao longo do dia. O propósito da atividade foi colocar em prática os conceitos de IoT, coleta de informações em tempo real e automação de processos, integrando sensores físicos com programação embarcada no ESP32
 
+## Tecnologias Utilizadas
+
+- Wokwi
+---
+
+## Autor
+- Vitor Paes Rodrigues
+- João Pedro de França
+- Richard Pimentel
